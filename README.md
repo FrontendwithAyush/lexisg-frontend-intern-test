@@ -49,7 +49,7 @@ It will run at `http://localhost:3000`
 
 ## 🖼️ Screenshot
 
-![Lexi Legal Assistant Screenshot](./screenshot.png)
+![Lexi Legal Assistant Screenshot](./Screenshots/img1.png)
 
 > *(Upload a screenshot and name it `screenshot.png`)*
 
