@@ -51,7 +51,6 @@ It will run at `http://localhost:3000`
 
 ![Lexi Legal Assistant Screenshot](./Screenshots/img1.png)
 
-> *(Upload a screenshot and name it `screenshot.png`)*
 
 ---
 
